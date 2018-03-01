@@ -1,0 +1,7 @@
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\bin\Debug\EjerciciosCursoCGato.exe.config
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\bin\Debug\EjerciciosCursoCGato.exe
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\bin\Debug\EjerciciosCursoCGato.pdb
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\obj\Debug\EjerciciosCursoCGato.csprojResolveAssemblyReference.cache
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\obj\Debug\EjerciciosCursoCGato.csproj.CoreCompileInputs.cache
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\obj\Debug\EjerciciosCursoCGato.exe
+C:\Users\Gatoko\source\repos\EjerciciosCursoCGato\EjerciciosCursoCGato\obj\Debug\EjerciciosCursoCGato.pdb
